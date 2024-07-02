@@ -31,6 +31,7 @@ Quantifiers specify how many instances of a character or group must be present f
 
 ### Grouping Constructs
 
+Grouping constructs ( ) are used to create subexpressions within a larger regex, allowing you to apply quantifiers or capture matches. We do not need these because we have a couple bracket expressions.
 
 ### Bracket Expressions
 
