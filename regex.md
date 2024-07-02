@@ -27,7 +27,7 @@ Anchors specify positions in the text where matches must occur, such as ^ for th
 
 ### Quantifiers
 
-
+Quantifiers specify how many instances of a character or group must be present for a match, like + for one or more occurrences and * for zero or more. Here we only use plus becaus ethere are several components we need included within an email address. 
 
 ### Grouping Constructs
 
