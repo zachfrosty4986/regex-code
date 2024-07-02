@@ -47,7 +47,7 @@ The OR operator | allows for matching one pattern or another, providing flexibil
 
 ### Flags
 
-
+Flags like i for case-insensitivity and g for global search modify how regex patterns are applied, altering the behavior of the regex engine. This is an email address only and not a password, meanng a flag is not needed. 
 
 ### Character Escapes
 
