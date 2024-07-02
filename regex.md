@@ -35,9 +35,11 @@ Grouping constructs ( ) are used to create subexpressions within a larger regex,
 
 ### Bracket Expressions
 
-
+Bracket expressions [ ] define sets of characters to match against, such as [a-z] for any lowercase letter or [0-9] for any digit. We use these to define the parameters of the characters within each email address.
 
 ### Character Classes
+
+
 
 ### The OR Operator
 
