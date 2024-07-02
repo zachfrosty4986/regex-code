@@ -51,6 +51,10 @@ Flags like i for case-insensitivity and g for global search modify how regex pat
 
 ### Character Escapes
 
+Character escapes \ allow special characters to be used literally or give special meaning to characters that would otherwise be interpreted differently.We use this a few times in our code because it separates the different segments of the regex. 
+
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This file was constructed by Zachary Magras, entry-level developer and IT technician. 
+Github Repo: https://github.com/zachfrosty4986/regex-code
+
