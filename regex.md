@@ -23,11 +23,18 @@ In this file, we explore a regex pattern designed to match email addresses. The 
 
 ### Anchors
 
+Anchors specify positions in the text where matches must occur, such as ^ for the start of the line and $ for the end of the line. This essentially closes in the code inside the regex line. 
+
 ### Quantifiers
+
+
 
 ### Grouping Constructs
 
+
 ### Bracket Expressions
+
+
 
 ### Character Classes
 
