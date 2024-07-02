@@ -39,9 +39,11 @@ Bracket expressions [ ] define sets of characters to match against, such as [a-z
 
 ### Character Classes
 
-
+Character classes \d, \w, and \s match digits, word characters, and whitespace respectively, providing shorthand for common character sets. We use \w for word characters to be included in the email address. 
 
 ### The OR Operator
+
+
 
 ### Flags
 
