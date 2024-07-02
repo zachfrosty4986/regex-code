@@ -19,6 +19,8 @@ In this file, we explore a regex pattern designed to match email addresses. The 
 
 ## Regex Components
 
+/^[\w.-]+@[a-zA-Z]+\.[a-zA-Z]{2,}$/
+
 ### Anchors
 
 ### Quantifiers
