@@ -43,9 +43,11 @@ Character classes \d, \w, and \s match digits, word characters, and whitespace r
 
 ### The OR Operator
 
-
+The OR operator | allows for matching one pattern or another, providing flexibility in specifying alternatives within a regex. We do not need to include this because in our bracket expressions, we already verify between capital and lowercase. 
 
 ### Flags
+
+
 
 ### Character Escapes
 
